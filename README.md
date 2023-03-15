@@ -1,7 +1,6 @@
 # Python Projects from #100DaysOfCode
 
 ### Beginner
-\* \- needs replit package
 
 1. Band name generator.
 2. Tip Calculator
@@ -9,9 +8,10 @@
 4. Password Generator
 5. Hangman game
 6. Caesar Cipher - Coder and Decoder
-7. Blind Auction Simulator*
-8. Calculator*
-9. Blackjack Game*
+7. Blind Auction Simulator (replit package)
+8. Calculator (replit package)
+9. Blackjack Game (replit package)
 10. Number Guessing Game
 11. Higher Lowe Game
 12. Coffee Machine Simulator
+13. Coffee Machine Simulator in OOP
