@@ -15,3 +15,5 @@
 11. Higher Lowe Game
 12. Coffee Machine Simulator
 13. Coffee Machine Simulator in OOP
+14. Quiz Game in OOP   
+    (You can generate questions on opentdb.com, paste them into data.py, make few changes in data and your new quiz is ready.)
