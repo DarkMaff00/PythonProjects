@@ -17,3 +17,5 @@
 13. Coffee Machine Simulator in OOP
 14. Quiz Game in OOP   
     (You can generate questions on opentdb.com, paste them into data.py, make few changes in data and your new quiz is ready.)
+15. Copy of Dots Paintings (colorgram package)  
+    (Fetch colors from provided image and draw your own with turtle module)
