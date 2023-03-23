@@ -22,3 +22,5 @@
 16. Turtle Games
     * Etch-A-Sketch
     * Turtle Race
+17. Snake Game (Turtle package)
+18. Pong Game (Turtle package)
