@@ -1,6 +1,5 @@
 # Python Projects from #100DaysOfCode
 
-### Beginner
 
 1. Band name generator.
 2. Tip Calculator
@@ -27,3 +26,4 @@
 19. Crossing Road Game (Turtle package)
 20. Mail Merge  
     (It will help you to automate sending the same message to many friends)
+21. USA States Quiz (Turtle and pandas packages)
