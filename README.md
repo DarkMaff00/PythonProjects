@@ -25,3 +25,5 @@
 17. Snake Game (Turtle package)
 18. Pong Game (Turtle package)
 19. Crossing Road Game (Turtle package)
+20. Mail Merge  
+    (It will help you to automate sending the same message to many friends)
