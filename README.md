@@ -21,9 +21,14 @@
 16. Turtle Games
     * Etch-A-Sketch
     * Turtle Race
-17. Snake Game (Turtle package)
+17. Snake Game (Turtle package)  
+    (Created to learn class inheritance)
 18. Pong Game (Turtle package)
-19. Crossing Road Game (Turtle package)
+19. Crossing Road Game (Turtle package)(Capstone Project)
 20. Mail Merge  
-    (It will help you to automate sending the same message to many friends)
-21. USA States Quiz (Turtle and pandas packages)
+    (It will help you to automate sending the same message to many friends)  
+    (Created to learn how to read from files and write to files)
+21. USA States Quiz (Turtle and pandas packages)  
+    (Created to learn how to read data from csv files)
+22. NATO Alphabet Translator (pandas package)  
+    (Created to learn list and dictionary comprehension)
