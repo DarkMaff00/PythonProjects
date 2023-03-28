@@ -32,3 +32,5 @@
     (Created to learn how to read data from csv files)
 22. NATO Alphabet Translator (pandas package)  
     (Created to learn list and dictionary comprehension)
+23. Lbs to Kgs Converter (GUI)(Tkinter package)  
+    (Created to learn basics of Tkinter, *args and **kwargs)
