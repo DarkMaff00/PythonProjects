@@ -34,3 +34,4 @@
     (Created to learn list and dictionary comprehension)
 23. Lbs to Kgs Converter (GUI)(Tkinter package)  
     (Created to learn basics of Tkinter, *args and **kwargs)
+24. Pomodoro App (GUI)(Tkinter package)
