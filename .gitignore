@@ -130,3 +130,4 @@ dmypy.json
 
 .idea
 .20.MailMerge/Output/ReadyToSend/*.txt
+25.PasswordManager/data.txt
