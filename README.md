@@ -35,4 +35,5 @@
 23. Lbs to Kgs Converter (GUI)(Tkinter package)  
     (Created to learn basics of Tkinter, *args and **kwargs)
 24. Pomodoro App (GUI)(Tkinter package)
-25. Password Manager (GUI)(Tkinter and pyperclip packages)
+25. Password Manager (GUI)(Tkinter, pyperclip, json packages)  
+    (Created to learn exceptions and json format)
