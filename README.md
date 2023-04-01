@@ -31,7 +31,7 @@
 21. USA States Quiz (Turtle and pandas packages)  
     (Created to learn how to read data from csv files)
 22. NATO Alphabet Translator (pandas package)  
-    (Created to learn list and dictionary comprehension)
+    (Created to learn list, dictionary comprehension and exceptions)
 23. Lbs to Kgs Converter (GUI)(Tkinter package)  
     (Created to learn basics of Tkinter, *args and **kwargs)
 24. Pomodoro App (GUI)(Tkinter package)
