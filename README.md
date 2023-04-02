@@ -37,3 +37,5 @@
 24. Pomodoro App (GUI)(Tkinter package)
 25. Password Manager (GUI)(Tkinter, pyperclip, json packages)  
     (Created to learn exceptions and json format)
+26. Flash Cards App (GUI)(Tkinter, pandas packages)  
+    (Capstone Project)
