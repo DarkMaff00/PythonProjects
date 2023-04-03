@@ -39,3 +39,5 @@
     (Created to learn exceptions and json format)
 26. Flash Cards App (GUI)(Tkinter, pandas packages)  
     (Capstone Project)
+27. Birthday Wisher (pandas, smtplib packages)
+    (Sends birthday wishes to your friend email)
