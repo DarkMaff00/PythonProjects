@@ -41,3 +41,5 @@
     (Capstone Project)
 27. Birthday Wisher (pandas, smtplib packages)
     (Sends birthday wishes to your friend email)
+28. ISS Tracker (smtplib and requests packages)
+    (Created to learn about fetching data from API)
