@@ -45,3 +45,5 @@
     (Created to learn about fetching data from API)
 29. Quiz App (GUI)(Tkinter, requests packages)  
     (Upgraded version of 14.QuizGame by GUI and fetching questions from TriviaDB)
+30. Rain Alert Notifier (Twilio, requests packages)  
+    (It checks for rain in next 12 hours using OWM Api and sends you alert SMS using Twilio)
