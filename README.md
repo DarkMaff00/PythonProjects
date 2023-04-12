@@ -1,6 +1,5 @@
 # Python Projects from #100DaysOfCode
 
-
 1. Band name generator.
 2. Tip Calculator
 3. Rock, Paper, Scissors Game vs Computer
@@ -15,7 +14,8 @@
 12. Coffee Machine Simulator
 13. Coffee Machine Simulator in OOP
 14. Quiz Game in OOP   
-    (You can generate questions on opentdb.com, paste them into data.py, make few changes in data and your new quiz is ready.)
+    (You can generate questions on opentdb.com, paste them into data.py, make few changes in data and your new quiz is
+    ready.)
 15. Copy of Dots Paintings (colorgram package)  
     (Fetch colors from provided image and draw your own with turtle module)
 16. Turtle Games
@@ -47,3 +47,6 @@
     (Upgraded version of 14.QuizGame by GUI and fetching questions from TriviaDB)
 30. Rain Alert Notifier (Twilio, requests packages)  
     (It checks for rain in next 12 hours using OWM Api and sends you alert SMS using Twilio)
+31. Stock Share Change Alert (Twilio, requests packages)  
+    (Checks difference between 2 days closure prices and if difference is bigger than 5% send you SMS alert with most
+    popular news about share creator).
