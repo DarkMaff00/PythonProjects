@@ -50,3 +50,4 @@
 31. Stock Share Change Alert (Twilio, requests packages)  
     (Checks difference between 2 days closure prices and if difference is bigger than 5% send you SMS alert with most
     popular news about share creator).
+32. Habit Tracker (Creating your habit tracker graph with pixela API)
