@@ -51,3 +51,4 @@
     (Checks difference between 2 days closure prices and if difference is bigger than 5% send you SMS alert with most
     popular news about share creator).
 32. Habit Tracker (Creating your habit tracker graph with pixela API)
+33. Workout Tracker (Saves your workout exercises in your Google Drive Sheet)
