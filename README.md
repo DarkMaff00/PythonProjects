@@ -52,3 +52,5 @@
     popular news about share creator).
 32. Habit Tracker (Creating your habit tracker graph with pixela API)
 33. Workout Tracker (Saves your workout exercises in your Google Drive Sheet)
+34. FlightDealerFinder (Fetches your destination cities and max price from Google Sheet by Sheety, compares prices with
+    cheapest options from Tequila API and if some is cheaper sends you SMS alert by Twilio)
